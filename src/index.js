@@ -1,4 +1,4 @@
-import './styles/global.scss';
+import './styles/style.css';
 
 import { sayHello } from './utils/say-hello';
 
